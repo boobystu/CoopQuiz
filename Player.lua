@@ -11,6 +11,7 @@ function SetupPlayers()
   playerTwo.optionC = "m"
   playerTwo.positionX = 700
   playerTwo.givenAnswer = ""
+  
 
 end
 
