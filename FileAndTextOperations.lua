@@ -9,6 +9,7 @@ function ReadQuestionFile()
   file:close()
 end
 
+
 function string:split( inSplitPattern, outResults )
   if not outResults then
     outResults = { }
